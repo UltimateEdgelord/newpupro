@@ -23,6 +23,17 @@ for (int im = 0; 4 > im; im++)
     Console.WriteLine(text);
 }
 
+{
+    string userInput2 = Console.ReadLine();
+
+    for (int i = 0; i < 5; i++)
+    {
+        Console.WriteLine(userInput2);
+    }
+
+    string userInput3 = Console.ReadLine();
+}
+
 bool ost = true;
 int imp = 1;
 while (ost == true)
@@ -40,3 +51,4 @@ while (ost == true)
     imp++;
 
 }
+
