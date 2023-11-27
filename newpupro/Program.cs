@@ -52,3 +52,5 @@ while (ost == true)
 
 }
 
+Console.WriteLine("Byla su tu joooooo");
+
